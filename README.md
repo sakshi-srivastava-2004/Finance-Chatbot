@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI-powered chatbot that understands Marathi and generates intelligent responses</b><br>
-  Built using NLP, Translation Models & Flask 🚀
+  Built using NLP, Translation Models & Flask .
 </p>
 
 
